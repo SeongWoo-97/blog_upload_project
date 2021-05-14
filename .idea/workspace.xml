@@ -80,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620547386448</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Navigator">
+      <created>1620809296210</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1620809296210</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,17 +164,18 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="FutureBuilder,StreamBuilder" />
-    <option name="LAST_COMMIT_MESSAGE" value="FutureBuilder,StreamBuilder" />
+    <MESSAGE value="Navigator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Navigator" />
   </component>
   <component name="WindowStateProjectService">
     <state x="454" y="105" key="#Project_Structure" timestamp="1620544832374">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="454" y="105" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620544832374" />
-    <state x="548" y="126" key="CommitChangelistDialog2" timestamp="1620547385388">
+    <state x="548" y="126" key="CommitChangelistDialog2" timestamp="1620809295063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="548" y="126" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620547385388" />
+    <state x="548" y="126" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620809295063" />
     <state x="2468" y="126" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620546519827" />
     <state x="198" y="97" key="DiffContextDialog" timestamp="1620547401437">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -194,10 +202,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="475" y="175" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620547301353" />
-    <state x="566" y="264" key="Vcs.Push.Dialog.v2" timestamp="1620547412084">
+    <state x="566" y="264" key="Vcs.Push.Dialog.v2" timestamp="1620809298321">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="566" y="264" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620547412084" />
+    <state x="566" y="264" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620809298321" />
     <state x="2486" y="264" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620546510114" />
     <state x="778" y="391" key="git4idea.rebase.GitRebaseDialog" timestamp="1620545791094">
       <screen x="0" y="0" width="1920" height="1040" />

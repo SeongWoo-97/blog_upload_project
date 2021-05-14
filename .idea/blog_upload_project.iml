@@ -3,6 +3,8 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/expansionpanel_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/expansionpanel_app/build" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_app/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_app/build" />
       <excludeFolder url="file://$MODULE_DIR$/future_app/.pub" />
