@@ -21,7 +21,7 @@ class _FireStorePageState extends State<FireStorePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             StreamBuilder(
-              stream: FirebaseFirestore.instance.collection('컬렉션').doc('문서').snapshots(),
+              stream: FirebaseFirestore.instance.collection('hello').doc('world').snapshots(),
               builder: (context, snapshot) {
                 switch (snapshot.connectionState) {
                   case ConnectionState.done:
@@ -35,9 +35,9 @@ class _FireStorePageState extends State<FireStorePage> {
                     break;
                   case ConnectionState.active:
                     if (snapshot.data.exists) {
-                      return Text('연결상태 : active + 파일존재', style: TextStyle(fontSize: 20));
+                      return Text('연결상태 : active \n값: ${snapshot.data['name']}', style: TextStyle(fontSize: 20));
                     } else {
-                      return Text('연결상태 : active + 파일없음', style: TextStyle(fontSize: 20));
+                      return Text('연결상태 : active + 데이터 없음', style: TextStyle(fontSize: 20));
                     }
                     break;
                   default:
